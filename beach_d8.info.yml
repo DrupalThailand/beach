@@ -1,0 +1,23 @@
+name: Beach for Drupal 8
+type: theme
+description: Drupal On The Beach.
+core: 8.x
+# Defines the base theme
+base theme: classy
+# Defines libraries group in which we can add css/js.
+libraries:
+  - beach_d8/global-styling
+# Regions
+regions:
+  sidebar_first: = Left sidebar
+  sidebar_second: = Right sidebar
+  highlighted: = Highlighted
+  content_top: = Top Content
+  content: = Content
+  content_bottom: = Bottom Content
+  footer_1: = Footer Block 1
+  footer_2: = Footer Block 2
+  footer_3: = Footer Block 3
+  footer_4: = Footer Block 4
+  page_top: = Page top
+  page_bottom: = Page bottom
