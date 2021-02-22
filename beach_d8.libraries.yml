@@ -1,7 +1,11 @@
 global-styling:
   css:
     theme:
-      css/framework/reset.css: {}
-      css/framework/baseline.css: {}
-      css/framework/drupal7-core.css: {}
-      css/beach.css: {}
+      # css/framework/reset.css: {}
+      # css/framework/baseline.css: {}
+      # css/framework/drupal7-core.css: {}
+      css/layout.css: {}
+      css/main-content.css: {}
+      css/sidebar.css: {}
+      # css/beach.css: {}
+      css/beach_d8.css: {}

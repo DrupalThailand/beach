@@ -285,22 +285,6 @@ textarea {
   margin-bottom: 20px;
 }
 
-#top-wrapper {
-  background: #7bd url(../images/landscape.gif) 60% 100% repeat-x;
-  min-height: 100px;
-  padding-bottom: 40px;
-}
-
-#middle-wrapper {
-  background: #157 url(../images/sea-sand.gif) 90% 0 repeat-x;
-}
-
-#middle-inner {
-  min-height: 330px;
-  background: transparent url(../images/ocean-floor.gif) 90% 100% repeat-x;
-  padding: 0 0 40px 0;
-}
-
 #main-content .content-inner {
   background: transparent url(../images/white-trans-50.png) 0 0 repeat;
 }
@@ -314,10 +298,6 @@ html {
   background: #012;
 }
 
-#bottom-wrapper {
-  color: #59b;
-  background: #012;
-}
 
 
 /* node */
@@ -1175,7 +1155,7 @@ form#system-themes-form .theme-info h2 {
  */
 
 body {
-  font: 0.625em/1.5 "Fertigo Pro", Georgia, "Helvetica Neue", Helvetica, FreeSans, "Nimbus Sans L", "Microsoft Sans Serif", "Arial Unicode MS", Arial, "Liberation Sans", Thonburi, Kinnari, Garuda, Loma, Waree, "Lucida Grande", Tahoma, sans-serif;
+  font: 14px "Fertigo Pro", Georgia, "Helvetica Neue", Helvetica, FreeSans, "Nimbus Sans L", "Microsoft Sans Serif", "Arial Unicode MS", Arial, "Liberation Sans", Thonburi, Kinnari, Garuda, Loma, Waree, "Lucida Grande", Tahoma, sans-serif;
 }
 
 .section {

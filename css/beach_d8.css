@@ -1,0 +1,86 @@
+
+html {
+  background: #012;
+}
+
+a {
+  color: #e63;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #b30;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #000;
+}
+
+a:focus {
+  color: #e63;
+  outline: 1px dotted invert;
+}
+
+a:active {
+  color: #e63;
+}
+
+a.active {
+  color: #000;
+}
+
+thead tr th {
+  font-size: 1.1em;
+  color: #ccb;
+  background: transparent url(../images/black-trans-50.png) 0 0 repeat;
+}
+tr:hover td {
+  background: #ffd;
+}
+
+thead a {
+  color: #ffe;
+}
+thead a:hover {
+  color: #ccb;
+}
+
+textarea {
+  background: transparent url(../images/white-trans-90.png) 0 0 repeat;
+}
+
+.messages {
+  margin-bottom: 20px;
+}
+
+header {
+  background: #7bd url(../images/landscape.gif) 60% 100% repeat-x;
+  min-height: 100px;
+  padding: 15px 0 40px;
+}
+
+.site-logo img { 
+  background-color: #e63;
+}
+
+.highlighted {
+  background-color: #f2ebca;
+}
+
+.layout-main-wrapper {
+  background: #157 url(../images/sea-sand.gif) 90% 0 repeat-x;
+  padding-top: 40px;
+}
+
+.layout-main-wrapper .layout-main {
+  min-height: 50vh;
+  background: transparent url(../images/ocean-floor.gif) 90% 100% repeat-x;
+  padding: 0 0 40px 0;
+}
+
+footer {
+  color: #59b;
+  background: #012;
+}
+  

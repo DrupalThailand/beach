@@ -7,17 +7,24 @@ base theme: classy
 # Defines libraries group in which we can add css/js.
 libraries:
   - beach_d8/global-styling
+# Logo
+logo: 'logo.png'
+
 # Regions
 regions:
-  sidebar_first: = Left sidebar
-  sidebar_second: = Right sidebar
-  highlighted: = Highlighted
-  content_top: = Top Content
-  content: = Content
-  content_bottom: = Bottom Content
-  footer_1: = Footer Block 1
-  footer_2: = Footer Block 2
-  footer_3: = Footer Block 3
-  footer_4: = Footer Block 4
-  page_top: = Page top
-  page_bottom: = Page bottom
+  header: Header
+  breadcrumb: Breadcrumb
+  help: Help
+  sidebar_first: Left sidebar
+  sidebar_second: Right sidebar
+  highlighted: Highlighted
+  content_top: Top Content
+  content: Content
+  content_bottom: Bottom Content
+  footer_1: Footer Block 1
+  footer_2: Footer Block 2
+  footer_3: Footer Block 3
+  footer_4: Footer Block 4
+  footer: Footer
+  page_top: Page top
+  page_bottom: Page bottom
